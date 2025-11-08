@@ -30,7 +30,9 @@ ReVytalize is an AI-powered platform that detects urban blight, leading to commu
 Our primary customers are city agencies, local nonprofits, and community development partners working in North Baton Rouge, who need accurate, real-time neighborhood data to inform their actions. ReVytalize provides them with a continuous stream of verified blight reports, thereby reducing the time wasted on duplicate or low-quality complaints. Tangibly, this leads to faster cleanups, more intelligent budget allocation, stronger grant applications, and measurable environmental improvement in the communities they serve.
 
 ## Tech Overview 💻
-**... what tech was used to bring this project to life?**
+**... What tech was used to bring this project to life?**
+The leading technology we used to help perfect the app is called mgx. It's a simple AI app-building tool that helps ensure the app runs smoothly and that the code is error-free, without any unexpected issues that could interrupt the code, such as syntax errors or backend or frontend problems. The app is defined through MGX’s orchestration layer, which uses a system prompt to specify behavior and, optionally, tools that the model can call, such as HTTP requests to external APIs. When a user pastes a URL, such as an ArcGIS or dashboard link, the platform doesn’t automatically embed a live, interactive map. Instead, it either treats the URL as plain text context for the model or, if explicitly configured, as an endpoint that the model can call. To display something precise, like a Baton Rouge blight map instead of random images, the app configuration must explicitly wire in the correct map or data API endpoints and provide instructions on how the model should use and present that data.
+
 
 Example:
 * FastAPI
