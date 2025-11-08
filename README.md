@@ -23,7 +23,7 @@ Your solution should:**
 3. How does addressing urban blight benefit the inhabitants of Baton Rouge?
 
 
-## Project Description 🤯
+## Project Description 🪐
 ReVytalize is an AI-powered platform that detects urban blight, leading to community-driven input to identify and revitalize blighted properties. The app utilizes AI via incorporating computer vision that scans street images, machine learning that analyzes readily available property and city data, and Generative AI for concise summaries from data. Providing a real time monitoring on data increases public awareness to not only detect urban blight but to contribute to beautifying the greater city of Baton Rouge.
 
 ## Project Value 💰
