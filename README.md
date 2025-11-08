@@ -3,7 +3,7 @@ This is a repository template that contains all the necessary information to acc
 
 Feel free to use any languages or frameworks, but please ensure that the following information is included in your project's README before the hacking period ends.
 _______________
-_______________
+_______________ 
 
 # Project Name: **ReVytalize**
 
