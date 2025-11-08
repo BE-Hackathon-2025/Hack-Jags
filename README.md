@@ -1,7 +1,7 @@
 ### TL;DR 🚨 
-This is a repository template containing all the information that needs to accompany your project.
+This is a repository template that contains all the necessary information to accompany your project.
 
-Feel free to use any languages or frameworks, but the following information must be filled out in your project's README before hacking ends.
+Feel free to use any languages or frameworks, but please ensure that the following information is included in your project's README before the hacking period ends.
 _______________
 _______________
 
@@ -11,7 +11,7 @@ _______________
 **Develop a cutting-edge software application that harnesses the power of artificial intelligence to solve a significant challenge or enhance the quality of life in your local community.
 Your solution should:**
 *   Clearly identify and validate a critical local issue or opportunity, using data-driven insights or community engagement.
-*   Employ advanced AI technologies such as generative AI, machine learning, natural language processing, or computer vision-to create practical, real-world solutions.
+*   Employ advanced AI technologies such as generative AI, machine learning, natural language processing, or computer vision to create practical, real-world solutions.
 *   Demonstrate measurable, positive outcomes for community members, supported by clear metrics and evidence.
 *   Design for scalability and adaptability, ensuring your solution can be deployed in similar communities facing comparable challenges.
 *   Present a compelling business case, highlighting return on investment (ROI), operational efficiency, or tangible performance improvements.
@@ -19,15 +19,15 @@ Your solution should:**
   
 **ReVytalize's Challenge Statements**
 1. How can we address the escalating problem of urban blight within the city of Baton Rouge?
-2. How can addressing the issue with urban blight contribute to the economy of Baton Rouge?
+2. How can addressing the issue of urban blight contribute to the economy of Baton Rouge?
 3. How does addressing urban blight benefit the inhabitants of Baton Rouge?
 
 
 ## Project Description 🪐
-ReVytalize is an AI-powered platform that detects urban blight, leading to community-driven input to identify and revitalize blighted properties. The app utilizes AI via incorporating computer vision that scans street images, machine learning that analyzes readily available property and city data, and Generative AI for concise summaries from data. Providing a real time monitoring on data increases public awareness to not only detect urban blight but to contribute to beautifying the greater city of Baton Rouge.
+ReVytalize is an AI-powered platform that detects urban blight, leading to community-driven input to identify and revitalize blighted properties. The app utilizes AI via incorporating computer vision that scans street images, machine learning that analyzes readily available property and city data, and Generative AI for concise summaries from data. Providing real-time monitoring of data increases public awareness not only to detect urban blight but also to contribute to the beautification of the greater city of Baton Rouge.
 
 ## Project Value 💰
-**....at least 3 sentences describing your target customer and tangible benefits from your solution**
+Our primary customers are city agencies, local nonprofits, and community development partners working in North Baton Rouge, who need accurate, real-time neighborhood data to inform their actions. ReVytalize provides them with a continuous stream of verified blight reports, thereby reducing the time wasted on duplicate or low-quality complaints. Tangibly, this leads to faster cleanups, more intelligent budget allocation, stronger grant applications, and measurable environmental improvement in the communities they serve.
 
 ## Tech Overview 💻
 **... what tech was used to bring this project to life?**
